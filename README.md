@@ -1,2 +1,2 @@
 # Visualids
-When I want to visualise something. Basically Visual-a-ids but I like overcomplicating names.
+1. CLT: https://colab.research.google.com/drive/1a3ED1QIrSUpUdwT_QFk2ZcqTgz0NZaSQ?usp=sharing
